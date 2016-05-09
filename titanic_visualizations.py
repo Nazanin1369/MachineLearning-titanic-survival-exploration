@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def filter_data(data, condition):
-    
     """
     Remove elements that do not match the condition provided.
     Takes a data list as input and returns a filtered list.
