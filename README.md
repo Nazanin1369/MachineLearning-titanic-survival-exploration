@@ -4,6 +4,7 @@ This project contains create decision functions that attempt to predict survival
 
 [View the results online here](https://nazanin1369.github.io/MachineLearning-titanic-survival-exploration/)
 
+
 #### Software and Libraries
 This project uses the following software and Python libraries:
 * Python 2.7
